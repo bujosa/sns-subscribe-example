@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bujosa/sns-subscribe-example/issues"
   },
-  "homepage": "https://github.com/bujosa/sns-subscribe-example#readme"
+  "homepage": "https://github.com/bujosa/sns-subscribe-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1599.0"
+  }
 }
