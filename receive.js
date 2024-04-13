@@ -22,8 +22,6 @@ app.post('/sns-endpoint', async (req, res) => {
         console.log('Received SNS message:', message.Message);
     }
 
-    console.log('Received SNS message:', message);
-
     // Responde con un código de estado 200 para indicar que el mensaje fue recibido correctamente
     res.sendStatus(200);
 });
