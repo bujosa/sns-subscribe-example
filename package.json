@@ -1,0 +1,22 @@
+{
+  "name": "sns-subscribe-example",
+  "version": "1.0.0",
+  "description": "This is a simple example of using sns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bujosa/sns-subscribe-example.git"
+  },
+  "keywords": [
+    "sns"
+  ],
+  "author": "bujosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bujosa/sns-subscribe-example/issues"
+  },
+  "homepage": "https://github.com/bujosa/sns-subscribe-example#readme"
+}
